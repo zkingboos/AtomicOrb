@@ -1,0 +1,9 @@
+<configuration debug="false" scan="true">
+    <appender name="STDOUT" class="orb.atomic.project.util.logging.AtomicAppender"/>
+
+    <logger name="com.sun.net" level="WARN"/>
+
+    <root level="trace">
+        <appender-ref ref="STDOUT"/>
+    </root>
+</configuration>

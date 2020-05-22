@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: org.atomic.project.boot.Launcher
+Class-Path: lib/jansi-1.18.jar lib/logback-core-1.2.3.jar lib/slf4j-api-1.7.26.jar lib/l
+ ogback-classic-1.2.3.jar lib/lombok-1.18.12.jar
+
